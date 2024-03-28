@@ -3,5 +3,5 @@ def hex_output():
     hexnum = input('Enter the hexadecimal')
     for power, digit in enumerate(reversed(hexnum)):
         decnumber += int(digit, 16) * (16 ** power)
-        print(decnumber)
+    print(decnumber)
 hex_output()
