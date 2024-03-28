@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1144ac38-aff9-4a66-80d1-ad6db265c23b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/NumericTypes/countRuns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumericTypes/mySum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumericTypes/mySumV2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumericTypes/numerictypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumericTypes/numerictypesv2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonWorkout.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonWorkout.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="1144ac38-aff9-4a66-80d1-ad6db265c23b" name="Changes" comment="Added exercises">
+      <change afterPath="$PROJECT_DIR$/NumericTypes/HexadecimalOuput.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.HexadecimalOuput.executor": "Run",
     "Python.countRuns.executor": "Run",
     "Python.main.executor": "Run",
     "Python.mySum.executor": "Run",
@@ -71,7 +66,30 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.countRuns">
+  <component name="RunManager" selected="Python.HexadecimalOuput">
+    <configuration name="HexadecimalOuput" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonWorkout" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NumericTypes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumericTypes/HexadecimalOuput.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="countRuns" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonWorkout" />
       <option name="ENV_FILES" value="" />
@@ -164,29 +182,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numerictypes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonWorkout" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumericTypes/numerictypes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="numerictypesv2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonWorkout" />
       <option name="ENV_FILES" value="" />
@@ -212,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HexadecimalOuput" />
         <item itemvalue="Python.countRuns" />
         <item itemvalue="Python.mySum" />
         <item itemvalue="Python.mySumV2" />
         <item itemvalue="Python.numerictypesv2" />
-        <item itemvalue="Python.numerictypes" />
       </list>
     </recent_temporary>
   </component>
@@ -237,12 +232,25 @@
       <updated>1711641423282</updated>
       <workItem from="1711641481571" duration="51000" />
       <workItem from="1711641547222" duration="1653000" />
-      <workItem from="1711643520418" duration="8550000" />
+      <workItem from="1711643520418" duration="9993000" />
     </task>
+    <task id="LOCAL-00001" summary="Added exercises">
+      <option name="closed" value="true" />
+      <created>1711656211995</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711656211995</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added exercises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -256,10 +264,11 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonWorkout$HexadecimalOuput.coverage" NAME="HexadecimalOuput Coverage Results" MODIFIED="1711659113899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NumericTypes" />
     <SUITE FILE_PATH="coverage/PythonWorkout$numerictypesv2.coverage" NAME="numerictypesv2 Coverage Results" MODIFIED="1711646059549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWorkout$mySum.coverage" NAME="mySum Coverage Results" MODIFIED="1711650900749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NumericTypes" />
     <SUITE FILE_PATH="coverage/PythonWorkout$main.coverage" NAME="main Coverage Results" MODIFIED="1711641557831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonWorkout$countRuns.coverage" NAME="countRuns Coverage Results" MODIFIED="1711655902775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NumericTypes" />
+    <SUITE FILE_PATH="coverage/PythonWorkout$countRuns.coverage" NAME="countRuns Coverage Results" MODIFIED="1711656137736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NumericTypes" />
     <SUITE FILE_PATH="coverage/PythonWorkout$mySumV2.coverage" NAME="mySumV2 Coverage Results" MODIFIED="1711648669180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWorkout$numerictypes.coverage" NAME="numerictypes Coverage Results" MODIFIED="1711644240167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
