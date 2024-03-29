@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1144ac38-aff9-4a66-80d1-ad6db265c23b" name="Changes" comment="Refactor">
-      <change afterPath="$PROJECT_DIR$/Strings/pig_latin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/pig_latin_sentence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/pig_latin_sentencev2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/sorting_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/teststring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/ubbi_dubbi.py" afterDir="false" />
+    <list default="true" id="1144ac38-aff9-4a66-80d1-ad6db265c23b" name="Changes" comment="Strings">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +48,7 @@
     "Python.pig_latin_sentece.executor": "Run",
     "Python.pig_latin_sentence.executor": "Run",
     "Python.pig_latin_sentencev2.executor": "Run",
+    "Python.sorting_string.executor": "Run",
     "Python.teststring.executor": "Run",
     "Python.ubbi_dubbi.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -244,7 +239,7 @@
       <updated>1711641423282</updated>
       <workItem from="1711641481571" duration="51000" />
       <workItem from="1711641547222" duration="1653000" />
-      <workItem from="1711643520418" duration="15234000" />
+      <workItem from="1711643520418" duration="15962000" />
     </task>
     <task id="LOCAL-00001" summary="Added exercises">
       <option name="closed" value="true" />
@@ -278,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711660050946</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Strings">
+      <option name="closed" value="true" />
+      <created>1711670894133</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711670894133</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,7 +290,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added exercises" />
     <MESSAGE value="Refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor" />
+    <MESSAGE value="Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Strings" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -311,6 +315,7 @@
     <SUITE FILE_PATH="coverage/PythonWorkout$countRuns.coverage" NAME="countRuns Coverage Results" MODIFIED="1711656137736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NumericTypes" />
     <SUITE FILE_PATH="coverage/PythonWorkout$mySumV2.coverage" NAME="mySumV2 Coverage Results" MODIFIED="1711648669180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWorkout$teststring.coverage" NAME="teststring Coverage Results" MODIFIED="1711662220860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Strings" />
+    <SUITE FILE_PATH="coverage/PythonWorkout$sorting_string.coverage" NAME="sorting_string Coverage Results" MODIFIED="1711665492417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Strings" />
     <SUITE FILE_PATH="coverage/PythonWorkout$ubbi_dubbi.coverage" NAME="ubbi_dubbi Coverage Results" MODIFIED="1711664665707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Strings" />
     <SUITE FILE_PATH="coverage/PythonWorkout$pig_latin.coverage" NAME="pig_latin Coverage Results" MODIFIED="1711661945697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Strings" />
   </component>
