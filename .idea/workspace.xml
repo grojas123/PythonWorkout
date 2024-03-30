@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1144ac38-aff9-4a66-80d1-ad6db265c23b" name="Changes" comment="Strings">
-      <change afterPath="$PROJECT_DIR$/ListTuples/AlphabetizingNames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListTuples/AlphabetizingNamesV2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListTuples/MostRepeatingWord.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListTuples/firstlast.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListTuples/firstlastV2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListTuples/mysum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1144ac38-aff9-4a66-80d1-ad6db265c23b" name="Changes" comment="List Tuples" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -253,7 +245,7 @@
       <workItem from="1711641481571" duration="51000" />
       <workItem from="1711641547222" duration="1653000" />
       <workItem from="1711643520418" duration="15962000" />
-      <workItem from="1711739159367" duration="11969000" />
+      <workItem from="1711739159367" duration="12352000" />
     </task>
     <task id="LOCAL-00001" summary="Added exercises">
       <option name="closed" value="true" />
@@ -295,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711670894133</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="List Tuples">
+      <option name="closed" value="true" />
+      <created>1711756912538</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711756912538</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,7 +305,8 @@
     <MESSAGE value="Added exercises" />
     <MESSAGE value="Refactor" />
     <MESSAGE value="Strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Strings" />
+    <MESSAGE value="List Tuples" />
+    <option name="LAST_COMMIT_MESSAGE" value="List Tuples" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -328,7 +329,7 @@
     <SUITE FILE_PATH="coverage/PythonWorkout$firstlast.coverage" NAME="firstlast Coverage Results" MODIFIED="1711740678083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ListTuples" />
     <SUITE FILE_PATH="coverage/PythonWorkout$firstlastV2.coverage" NAME="firstlastV2 Coverage Results" MODIFIED="1711740843636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ListTuples" />
     <SUITE FILE_PATH="coverage/PythonWorkout$mysum.coverage" NAME="mysum Coverage Results" MODIFIED="1711747225578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ListTuples" />
-    <SUITE FILE_PATH="coverage/PythonWorkout$MostRepeatingWord.coverage" NAME="MostRepeatingWord Coverage Results" MODIFIED="1711753305626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ListTuples" />
+    <SUITE FILE_PATH="coverage/PythonWorkout$MostRepeatingWord.coverage" NAME="MostRepeatingWord Coverage Results" MODIFIED="1711753517707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ListTuples" />
     <SUITE FILE_PATH="coverage/PythonWorkout$pig_latin_sentece.coverage" NAME="pig_latin_sentence Coverage Results" MODIFIED="1711663527222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Strings" />
     <SUITE FILE_PATH="coverage/PythonWorkout$main.coverage" NAME="main Coverage Results" MODIFIED="1711641557831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonWorkout$countRuns.coverage" NAME="countRuns Coverage Results" MODIFIED="1711656137736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NumericTypes" />
